@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammmed Zubair</h1>
-<h3 align="center">Back-end Developer By Using Wonderful Framework Laravel</h3>
+<h3 align="center">Back-end Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zubairsoft&label=Profile%20views&color=0e75b6&style=flat" alt="zubairsoft" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **moh.775123554@gmail.com**
 
-- 📄 Know about my experiences [1 year building website by using laravel](1 year building website by using laravel)
+- 📄 1 year building website by using laravel
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
