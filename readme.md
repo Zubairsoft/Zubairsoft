@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **moh.775123554@gmail.com**
 
-- 📄 1 year building website by using laravel
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohammed zubair" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohammed zubair" height="30" width="40" /></a>
